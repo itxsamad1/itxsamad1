@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/itxsamad1.png" width="150" style="border-radius: 50%;" alt="Abdul Samad's profile picture">
-</p>
 
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">🚀 Versatile Software Developer | Backend Specialist | Mobile Enthusiast</h3>
