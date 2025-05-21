@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
+<h3 align="center">🚀 Versatile Software Developer | Backend Specialist | Mobile Enthusiast</h3>
 <p align="center">A Versatile Software Developer with 4+ years of experience, specializing in backend development and mobile app solutions.</p>
 
 
