@@ -1,0 +1,21 @@
+# Java
+*.java linguist-language=Java
+*.class linguist-generated=true
+*.jar linguist-generated=true
+
+# Maven/Gradle
+pom.xml linguist-language=XML
+build.gradle linguist-language=Groovy
+
+# Android
+*.xml linguist-language=XML
+*.kt linguist-language=Kotlin
+
+# Documentation
+*.md linguist-documentation
+*.txt linguist-documentation
+
+# Generated files
+**/build/** linguist-generated=true
+**/bin/** linguist-generated=true
+**/gen/** linguist-generated=true 
