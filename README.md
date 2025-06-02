@@ -94,7 +94,7 @@ I'm a versatile Software Developer with over 4 years of experience, passionate a
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"/>
 </div>
 
 <div align="center">
