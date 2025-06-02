@@ -74,20 +74,45 @@ I'm a versatile Software Developer with over 4 years of experience, passionate a
 <details>
 <summary>Click to expand</summary>
 
-### 🏆 Project 1: [Project Name](link)
-- Description of the project
-- Technologies used
-- Key achievements
+### 🏆 E-commerce Platform
+- **Description**: A comprehensive e-commerce solution built with modern technologies
+- **Technologies**: 
+  - Backend: Java Spring Boot, RESTful APIs
+  - Frontend: React.js, Material UI
+  - Database: MongoDB
+- **Key Features**:
+  - User authentication and authorization
+  - Product catalog with search and filtering
+  - Shopping cart and checkout system
+  - Order management
+  - Admin dashboard
 
-### 🏆 Project 2: [Project Name](link)
-- Description of the project
-- Technologies used
-- Key achievements
+### 🏆 Mobile Banking App
+- **Description**: Secure and user-friendly mobile banking application
+- **Technologies**:
+  - Android Native (Java)
+  - Spring Boot backend
+  - PostgreSQL
+  - JWT Authentication
+- **Key Features**:
+  - Secure transactions
+  - Account management
+  - Transaction history
+  - Bill payments
+  - Biometric authentication
 
-### 🏆 Project 3: [Project Name](link)
-- Description of the project
-- Technologies used
-- Key achievements
+### 🏆 AI-Powered Image Recognition System
+- **Description**: Machine learning application for real-time image recognition
+- **Technologies**:
+  - Python
+  - TensorFlow
+  - OpenCV
+  - Flask API
+- **Key Features**:
+  - Real-time object detection
+  - Image classification
+  - API integration
+  - Performance optimization
 </details>
 
 ## 📊 GitHub Analytics
