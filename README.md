@@ -176,8 +176,12 @@ const abdulSamad = {
   
 ### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
 
-<img src="https://github.com/itxsamad1/itxsamad1/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+<!-- Snake Animation eating my contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%"/>
 
