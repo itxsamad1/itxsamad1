@@ -6,7 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=itxsamad1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
 
 ## 🎯 Current Status
 
@@ -170,7 +172,9 @@ const abdulSamad = {
 
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
 
 <div align="center">
   
