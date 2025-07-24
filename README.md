@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=itxsamad1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ## 🎯 Current Status
@@ -173,13 +173,16 @@ const abdulSamad = {
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 <div align="center">
   
 ### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <!-- Snake Animation eating my contributions -->
 ### 🐍 Snake eating my contributions
