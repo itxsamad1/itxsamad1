@@ -94,23 +94,23 @@ const abdulSamad = {
 
 <div align="center">
 
-### 🔬 **Pneumonia Detection Research**
+### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray (Research Work) **
 > **AI-Powered Medical Diagnosis System**
 > 
 > 🧠 Deep Learning model for pneumonia detection in chest X-rays  
 > 📊 Research paper in preparation for publication  
 > 🎯 Contributing to healthcare AI advancement  
 > 
-> `Python` `TensorFlow` `Computer Vision` `Medical AI` `Research`
+> `Python` `Pytorch` `Computer Vision` `Image Processing` `Medical AI` `Research`
 
-### 🛠️ **Cursor-help-by-Sam**
-> **Free Cursor IDE Enhancement Tool**
+### 🛠️ **Cursor-Help-by-Sam**
+> **Free Cursor IDE Enhancement Tool (Cracking Scripts and Modifiers) **
 > 
 > 💡 Cursor IDE enhancement for community access  
 > 🚀 Helping developers code without barriers  
 > ⚡ Aggressive problem-solving in action  
 > 
-> `JavaScript` `IDE Enhancement` `Open Source` `Community Tool`
+> `Go` `Shell` `Bat` `JavaScript` `IDE Enhancement` `Open Source` `Community Tool`
 
 </div>
 
