@@ -1,138 +1,140 @@
-# <div align="center">👋 Hi, I'm Abdul Samad</div>
-
 <div align="center">
   
-  🚀 **Senior Software Developer | Backend Specialist | Mobile Solutions Architect**
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=itxsamad1&color=blueviolet)](https://github.com/itxsamad1)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/itxsammad1)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm Abdul Samad
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%F0%9F%9A%80;AI+Researcher+%F0%9F%A4%96;Hacking+%E2%86%92+Cloud+%E2%86%92+Software+%E2%86%92+AI;Aggressively+Building+Solutions+%F0%9F%94%A5;Currently+Learning+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=itxsamad1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
+
+---
+
+## 🎯 Current Status
+
+```javascript
+const abdulSamad = {
+    role: "Senior Backend Engineer",
+    company: "Intelik Immutable Intelligence",
+    currentlyLearning: ["Agentic AI", "Machine Learning", "Advanced Neural Networks"],
+    focusAreas: ["Backend Architecture", "AI Research", "System Design"],
+    workStyle: "Aggressively passionate about solving complex problems 🔥",
+    lifePhilosophy: "Computing and programming is my love ❤️"
+};
+```
 
 </div>
 
-## 👨‍💻 About Me
+## 🚀 My Evolution Journey
 
-I'm a versatile Software Developer with over 4 years of experience, passionate about creating robust and scalable solutions. My expertise spans:
+```mermaid
+graph LR
+    A[🔓 Hacking] --> B[☁️ Cloud Computing]
+    B --> C[💻 Software Development]
+    C --> D[⚙️ Backend Engineering]
+    D --> E[🤖 AI Research]
+    E --> F[🎯 Current: Senior Backend Engineer + AI]
+```
 
-- 🔹 Backend Development with Java Spring Boot & Node.js
-- 🔹 Mobile App Development (Android Native & React Native)
-- 🔹 Machine Learning & Computer Vision
-- 🔹 Cloud Infrastructure & DevOps
-- 🔹 Database Design & Optimization
+## 💻 Tech Arsenal (Always Visible, Always Ready)
 
-## 🛠️ Technical Stack
+<div align="center">
 
-<details>
-<summary>Programming Languages</summary>
+### **Backend Powerhouse**
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,fastapi" />
 
-- **Backend**: 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+### **Mobile & Frontend**
+<img src="https://skillicons.dev/icons?i=androidstudio,react,html,css,js,ts" />
 
-- **Frontend**: 
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-</details>
+### **AI & Machine Learning**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-<details>
-<summary>Frameworks & Libraries</summary>
+### **Hacking & Security**
+<img src="https://skillicons.dev/icons?i=linux,bash,kali" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-FF6B6B?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-4ECDC4?style=for-the-badge&logo=hackerone&logoColor=white"/>
 
-- **Backend Frameworks**:
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+### **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+<img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-- **Mobile Development**:
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+### **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,postman,vscode" />
+<img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-- **ML/AI**:
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-</details>
+</div>
 
-<details>
-<summary>Databases & Cloud</summary>
+## 🏆 Featured Projects & Research
 
-- **Databases**:
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+<div align="center">
 
-- **Cloud & DevOps**:
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-</details>
+### 🔬 **Pneumonia Detection Research**
+> **AI-Powered Medical Diagnosis System**
+> 
+> 🧠 Deep Learning model for pneumonia detection in chest X-rays  
+> 📊 Research paper in preparation for publication  
+> 🎯 Contributing to healthcare AI advancement  
+> 
+> `Python` `TensorFlow` `Computer Vision` `Medical AI` `Research`
 
-## 🌟 Featured Projects
+### 🛠️ **Cursor-help-by-Sam**
+> **Free Cursor IDE Enhancement Tool**
+> 
+> 💡 Cracked Cursor IDE for free community access  
+> 🚀 Helping developers code without barriers  
+> ⚡ Aggressive problem-solving in action  
+> 
+> `JavaScript` `IDE Enhancement` `Open Source` `Community Tool`
 
-<details>
-<summary>Click to expand</summary>
-
-### 🏆 E-commerce Platform
-- **Description**: A comprehensive e-commerce solution built with modern technologies
-- **Technologies**: 
-  - Backend: Java Spring Boot, RESTful APIs
-  - Frontend: React.js, Material UI
-  - Database: MongoDB
-- **Key Features**:
-  - User authentication and authorization
-  - Product catalog with search and filtering
-  - Shopping cart and checkout system
-  - Order management
-  - Admin dashboard
-
-### 🏆 Mobile Banking App
-- **Description**: Secure and user-friendly mobile banking application
-- **Technologies**:
-  - Android Native (Java)
-  - Spring Boot backend
-  - PostgreSQL
-  - JWT Authentication
-- **Key Features**:
-  - Secure transactions
-  - Account management
-  - Transaction history
-  - Bill payments
-  - Biometric authentication
-
-### 🏆 AI-Powered Image Recognition System
-- **Description**: Machine learning application for real-time image recognition
-- **Technologies**:
-  - Python
-  - TensorFlow
-  - OpenCV
-  - Flask API
-- **Key Features**:
-  - Real-time object detection
-  - Image classification
-  - API integration
-  - Performance optimization
-</details>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxsamad1&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxsamad1&theme=tokyonight&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
-## 🤝 Let's Connect
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itxsamad1&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🎓 Certifications & Achievements
 
 <div align="center">
-  
+
+![Google AI](https://img.shields.io/badge/Google%20AI%20Essential-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Java Certified](https://img.shields.io/badge/Java%20Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+
+🎬 **Movie Fanatic** • 🎮 **PC Gaming** • ⌨️ **Keyboard Enthusiast** • 🎵 **Music Lover**
+
+*"Sometimes I'm aggressive in working, but that's what drives innovation!"*
+
+</div>
+
+## 🌐 Let's Connect & Build Something Epic
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itxsammad1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itxsammad1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxsamad1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxsamad@icloud.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itx_sammad1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itxsammad1)
+
+**💼 Currently:** Senior Backend Engineer at [Intelik Immutable Intelligence](https://www.intelik.net/)  
+**🎯 Goals:** Building towards bigger opportunities in top-tier companies or creating my own MNC  
+**🤝 Open to:** Collaborations, AI research partnerships, and challenging backend projects
 
 </div>
 
@@ -140,8 +142,10 @@ I'm a versatile Software Developer with over 4 years of experience, passionate a
 
 <div align="center">
   
-### 💬 Feel free to reach out for collaborations or just a friendly chat!
-  
-📫 Email: itxsamad@icloud.com
-  
+### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
+
+<img src="https://github.com/itxsamad1/itxsamad1/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+⭐ **From [Abdul Samad](https://github.com/itxsamad1)** - *Making the impossible possible, one commit at a time*
+
 </div>
