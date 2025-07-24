@@ -25,14 +25,16 @@ const abdulSamad = {
 
 ## 🚀 My Evolution Journey
 
-```mermaid
-graph LR
-    A[🔓 Hacking] --> B[☁️ Cloud Computing]
-    B --> C[💻 Software Development]
-    C --> D[⚙️ Backend Engineering]
-    D --> E[🤖 AI Research]
-    E --> F[🎯 Current: Senior Backend Engineer + AI]
-```
+<div align="center">
+
+| 🔓 **Hacking** | ☁️ **Cloud** | 💻 **Software Dev** | ⚙️ **Backend Eng** | 🤖 **AI Research** |
+|:---:|:---:|:---:|:---:|:---:|
+| `Started Here` | `↗️ Scaled Up` | `↗️ Built Systems` | `↗️ Current Role` | `↗️ Future Focus` |
+| *Security First* | *Infrastructure* | *Full Solutions* | *Senior Position* | *Innovation* |
+
+**🎯 Current Status:** `Senior Backend Engineer + AI Researcher`
+
+</div>
 
 ## 💻 Tech Arsenal (Always Visible, Always Ready)
 
@@ -48,18 +50,19 @@ graph LR
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
 ### **Hacking & Security**
-<img src="https://skillicons.dev/icons?i=linux,bash,kali" />
-<img src="https://img.shields.io/badge/Penetration%20Testing-FF6B6B?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-4ECDC4?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original-wordmark.svg" width="48" height="48"/>
+<img src="https://img.shields.io/badge/Penetration%20Testing-FF6B6B?style=flat&logo=kalilinux&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-4ECDC4?style=flat&logo=hackerone&logoColor=white" height="48"/>
 
 ### **DevOps & Cloud**
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
-<img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48"/>
+<img src="https://render.com/icons/services/web-service.svg" width="48" height="48"/>
 
 ### **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,postman,vscode" />
-<img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://cursor.sh/brand/icon.svg" width="48" height="48"/>
 
 </div>
 
@@ -144,7 +147,7 @@ graph LR
   
 ### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
 
-<img src="https://github.com/itxsamad1/itxsamad1/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 ⭐ **From [Abdul Samad](https://github.com/itxsamad1)** - *Making the impossible possible, one commit at a time*
 
