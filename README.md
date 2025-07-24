@@ -178,6 +178,7 @@ const abdulSamad = {
 
 
 <!-- Snake Animation eating my contributions -->
+### 🐍 Snake eating my contributions
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 <!-- If the above doesn't work, use this alternative -->
 <!-- <img src="https://github.com/itxsamad1/itxsamad1/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" /> -->
