@@ -176,6 +176,9 @@ const abdulSamad = {
   
 ### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
 
+<img src="https://github.com/itxsamad1/itxsamad1/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%"/>
 
 ⭐ **From [Abdul Samad](https://github.com/itxsamad1)** - *Making the impossible possible, one commit at a time*
