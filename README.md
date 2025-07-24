@@ -94,8 +94,8 @@ const abdulSamad = {
 
 <div align="center">
 
-### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray (Research Work)**
-> **AI-Powered Medical Diagnosis System**
+### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray**
+> **AI-Powered Medical Diagnosis System (Research Work)**
 > 
 > 🧠 Deep Learning model for pneumonia detection in chest X-rays  
 > 📊 Research paper in preparation for publication  
@@ -104,7 +104,7 @@ const abdulSamad = {
 > `Python` `Pytorch` `Computer Vision` `Image Processing` `Medical AI` `Research`
 
 ### 🛠️ **Cursor-Help-by-Sam**
-> **Free Cursor IDE Enhancement Tool (Cracking Scripts and Modifiers) **
+> **Free Cursor IDE Enhancement Tool (Cracking Scripts and Modifiers)**
 > 
 > 💡 Cursor IDE enhancement for community access  
 > 🚀 Helping developers code without barriers  
