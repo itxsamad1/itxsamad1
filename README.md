@@ -94,7 +94,7 @@ const abdulSamad = {
 
 <div align="center">
 
-### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray (Research Work) **
+### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray (Research Work)**
 > **AI-Powered Medical Diagnosis System**
 > 
 > 🧠 Deep Learning model for pneumonia detection in chest X-rays  
