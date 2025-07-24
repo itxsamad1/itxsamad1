@@ -176,12 +176,64 @@ const abdulSamad = {
   
 ### 🔥 "Aggressively passionate about computing, professionally driven by innovation"
 
+
 <!-- Snake Animation eating my contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itxsamad1/itxsamad1/output/github-contribution-grid-snake.svg">
-</picture>
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .snake-text { 
+        font-family: 'Courier New', monospace; 
+        font-size: 14px; 
+        fill: #00D9FF; 
+        text-anchor: middle;
+      }
+      .contribution-square { 
+        width: 12px; 
+        height: 12px; 
+        fill: #0D1117; 
+        stroke: #21262D; 
+        stroke-width: 1; 
+      }
+      .active-square { 
+        fill: #00D9FF; 
+        animation: glow 2s ease-in-out infinite alternate; 
+      }
+      @keyframes glow {
+        from { fill: #00D9FF; }
+        to { fill: #39D353; }
+      }
+      .snake-segment {
+        fill: #00D9FF;
+        animation: move-snake 3s linear infinite;
+      }
+      @keyframes move-snake {
+        0% { transform: translateX(0px); opacity: 1; }
+        50% { transform: translateX(200px); opacity: 0.8; }
+        100% { transform: translateX(400px); opacity: 1; }
+      }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="300" fill="#0D1117"/>
+  <!-- Contribution Grid -->
+  <g transform="translate(50, 50)">
+    <rect class="contribution-square" x="0" y="0"/>
+    <rect class="contribution-square active-square" x="15" y="0"/>
+    <rect class="contribution-square" x="30" y="0"/>
+    <rect class="contribution-square active-square" x="45" y="0"/>
+    <rect class="contribution-square" x="0" y="15"/>
+    <rect class="contribution-square active-square" x="15" y="15"/>
+    <rect class="contribution-square active-square" x="30" y="15"/>
+    <rect class="contribution-square" x="45" y="15"/>
+  </g>
+  <!-- Snake -->
+  <circle class="snake-segment" cx="100" cy="80" r="6"/>
+  <circle class="snake-segment" cx="110" cy="80" r="5" style="animation-delay: 0.2s"/>
+  <circle class="snake-segment" cx="120" cy="80" r="4" style="animation-delay: 0.4s"/>
+  <!-- Text -->
+<text x="450" y="150" class="snake-text">🐍 Snake is eating my contributions! 🐍</text>
+<text x="450" y="180" class="snake-text" style="font-size: 12px; fill: #C9D1D9;">Animated GitHub Activity Visualization</text>
+</svg>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%"/>
 
