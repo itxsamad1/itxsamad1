@@ -34,7 +34,7 @@ const abdulSamad = {
 | `Started Here` | `↗️ Scaled Up` | `↗️ Built Systems` | `↗️ Current Role` | `↗️ Future Focus` |
 | *Security First* | *Infrastructure* | *Full Solutions* | *Senior Position* | *Innovation* |
 
-**🎯 Current Status:** `Senior Backend Engineer + AI Researcher`
+**🎯 Current Role:** `Senior Backend Engineer + AI Researcher`
 
 </div>
 
