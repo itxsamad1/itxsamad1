@@ -150,7 +150,7 @@ const abdulSamad = {
 
 <div align="center">
 
-🎬 **Movie Fanatic** • 🎮 **PC Gaming** • ⌨️ **Keyboard Enthusiast** • 🎵 **Music Lover**
+🎬 **Movie Fanatic** • 🎮 **Gaming** • ⌨️ **Keyboard Enthusiast** • 🎵 **Music Lover**
 
 *"Sometimes I'm aggressive in working, but that's what drives innovation!"*
 
