@@ -188,7 +188,7 @@ const abdulSamad = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&cache_seconds=120)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qquffddhu56wwp4fwgdxfnomze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&cache_seconds=120)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d5khp5x7kjbc73glw5jdsuzmn4&redirect=true)
 
 
 </div>
