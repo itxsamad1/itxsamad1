@@ -10,34 +10,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## 🎯 Current Status
-
-```javascript
-const abdulSamad = {
-    role: "Senior Backend Engineer",
-    company: "Intelik Immutable Intelligence",
-    currentlyLearning: ["Agentic AI", "Machine Learning", "Advanced Neural Networks"],
-    focusAreas: ["Backend Architecture", "AI Research", "System Design"],
-    workStyle: "Aggressively passionate about solving complex problems 🔥",
-    lifePhilosophy: "Computing and programming is my love ❤️"
-};
-```
-
-</div>
-
-## 🚀 My Evolution Journey
-
-<div align="center">
-
-| 🔓 **Hacking** | ☁️ **Cloud** | 💻 **Software Dev** | ⚙️ **Backend Eng** | 🤖 **AI Research** |
-|:---:|:---:|:---:|:---:|:---:|
-| `Started Here` | `↗️ Scaled Up` | `↗️ Built Systems` | `↗️ Current Role` | `↗️ Future Focus` |
-| *Security First* | *Infrastructure* | *Full Solutions* | *Senior Position* | *Innovation* |
-
-**🎯 Current Role:** `Senior Backend Engineer + AI Researcher`
-
-</div>
-
 ## 💻 Tech Arsenal (Always Visible, Always Ready)
 
 <div align="center">
