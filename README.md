@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm Abdul Samad
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%F0%9F%9A%80;AI+Researcher;Hacking+%E2%86%92+Cloud+%E2%86%92+Software+%E2%86%92+AI;Aggressively+Building+Solutions+%F0%9F%94%A5;Currently+Learning+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;AI+Researcher;Hacking+%E2%86%92+Operating+System+%E2%86%92+Cloud+%E2%86%92+Software+%E2%86%92+AI;Aggressively+Building+Solutions+%F0%9F%94%A5;Currently+Learning+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=itxsamad1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
