@@ -58,14 +58,14 @@
   <td><b>AI & Machine Learning</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Machine_Learning-01D277?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MLOps-0078D4?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine_Learning-01D277?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MLOps-0078D4?style=flat&logoColor=white" />
   </td>
 </tr>
 <tr>
@@ -92,9 +92,9 @@
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeEF-8B0000?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B6B?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ethical_Hacking-4ECDC4?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
   </td>
 </tr>
 <tr>
@@ -137,14 +137,13 @@
 <tr>
   <td><b>Specializations</b></td>
   <td>
-    <img src="https://img.shields.io/badge/-Backend_Engineering-FF6600?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Software_Engineering-0078D4?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-System_Design-9B59B6?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Backend_Engineering-FF6600?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-AI_Engineering-FF6F00?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Medical_AI-4C8CBF?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-System_Design-9B59B6?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Reverse_Engineering-E74C3C?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Computer_Science-FAB040?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Software_Development-FF6F00?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Research-01D277?style=flat&logoColor=white" />
   </td>
 </tr>
