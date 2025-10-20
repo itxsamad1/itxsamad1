@@ -40,8 +40,11 @@
 <tr>
   <td><b>Mobile & Frontend</b></td>
   <td>
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-XML-005FAD?style=flat&logo=xml&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -54,6 +57,9 @@
 <tr>
   <td><b>AI & Machine Learning</b></td>
   <td>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine_Learning-01D277?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MLOps-0078D4?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
@@ -81,6 +87,8 @@
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot_OS-00C7B7?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeEF-8B0000?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logoColor=white" />
@@ -96,6 +104,7 @@
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white" />
@@ -107,6 +116,7 @@
 <tr>
   <td><b>Databases</b></td>
   <td>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
@@ -128,7 +138,11 @@
   <td><b>Specializations</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Backend_Engineering-FF6600?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Software_Engineering-0078D4?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI_Engineering-FF6F00?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Medical_AI-4C8CBF?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-System_Design-9B59B6?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Reverse_Engineering-E74C3C?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Computer_Science-FAB040?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Software_Development-FF6F00?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Research-01D277?style=flat&logoColor=white" />
