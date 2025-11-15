@@ -15,7 +15,7 @@
 
 </div>
 
-## 🛠️ **Tech Stack & Tools**
+##  **Tech Stack & Tools**
 
 <table>
 <tr>
@@ -151,7 +151,7 @@
 
 ---
 
-## 🏆 Featured Projects & Research
+##  Featured Projects & Research
 
 <div align="center">
 
@@ -231,7 +231,7 @@
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 <div align="center">
 
