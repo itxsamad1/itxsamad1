@@ -13,6 +13,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+<!-- Aesthetic Desk GIF — dark cyberpunk/teal hacker vibe -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding aesthetic" style="border-radius: 12px;" />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 </div>
 
 ##  **Tech Stack & Tools**
@@ -151,45 +158,19 @@
 
 ---
 
-##  Featured Projects & Research
-
-<div align="center">
-
-### 🔬 **Enhancing-Pneumonia-Detection-from-Chest-X-ray**
-> **AI-Powered Medical Diagnosis System (Research Work)**
-> 
-> 🧠 Deep Learning model for pneumonia detection in chest X-rays  
-> 📊 Research paper in preparation for publication  
-> 🎯 Contributing to healthcare AI advancement  
-> 
-> `Python` `Pytorch` `Computer Vision` `Image Processing` `Medical AI` `Research`
-
-### 🛠️ **Cursor-Help-by-Sam**
-> **Free Cursor IDE Enhancement Tool (Cracking Scripts and Modifiers)**
-> 
-> 💡 Cursor IDE enhancement for community access  
-> 🚀 Helping developers code without barriers  
-> ⚡ Aggressive problem-solving in action  
-> 
-> `Go` `Shell` `Bat` `JavaScript` `IDE Enhancement` `Open Source` `Community Tool`
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-| . | . |
-|---|---|
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="GitHub Stats"/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="Top Languages"/> |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&cache_seconds=1800" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itxsamad1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=itxsamad1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 </div>
 
