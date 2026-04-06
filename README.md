@@ -13,12 +13,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- Aesthetic Desk GIF — dark cyberpunk/teal hacker vibe -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding aesthetic" style="border-radius: 12px;" />
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 
 </div>
 
@@ -162,15 +156,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&cache_seconds=1800" alt="GitHub Stats"/>
+<!-- GitHub Stats — using github-stats.pretto.app (reliable self-hosted alternative) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages"/>
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=itxsamad1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+<!-- Streak Stats — demolab is the official maintained host -->
+<img src="https://streak-stats.demolab.com/?user=itxsamad1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&hide_total_contributions=false" alt="GitHub Streak"/>
+
+</div>
+
+<!-- Profile Summary Cards — very reliable, different API entirely -->
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itxsamad1&theme=radical)](https://github.com/itxsamad1)
 
 </div>
 
