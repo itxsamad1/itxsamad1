@@ -226,7 +226,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itx_sammad1)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itxsammad1)
 
-**💼 Currently:** Senior Backend Engineer at [Intelik Immutable Intelligence](https://www.intelik.net/)  
+**💼 Currently:** Full Stack Software Engineer at [GCS Pvt. Ltd](https://gcspvt.com/)  
 **🎯 Goals:** Building towards bigger opportunities in top-tier companies or creating my own MNC  
 **🤝 Open to:** Collaborations, AI research partnerships, and challenging backend projects
 
