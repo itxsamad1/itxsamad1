@@ -112,6 +112,7 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
   </td>
 </tr>
 <tr>
@@ -122,6 +123,8 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RedisInsight-DC382D?style=flat&logo=redis&logoColor=white" />
   </td>
 </tr>
 <tr>
