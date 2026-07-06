@@ -181,20 +181,6 @@
 
 </div>
 
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-![Google AI](https://img.shields.io/badge/Google%20AI%20Essential-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Java Certified](https://img.shields.io/badge/Java%20Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
