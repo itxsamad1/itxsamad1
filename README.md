@@ -238,7 +238,6 @@
   <img alt="github contribution grid snake animation for itxsamad1" src="https://raw.githubusercontent.com/itxsamad1/snk/main/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" width="100%"/>
 
 ⭐ **From [Abdul Samad](https://github.com/itxsamad1)** - *Making the impossible possible, one commit at a time*
 
