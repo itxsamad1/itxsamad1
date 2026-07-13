@@ -195,7 +195,7 @@
 
 ### 🎵 What I'm Listening To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qquffddhu56wwp4fwgdxfnomze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&cache_seconds=120)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qquffddhu56wwp4fwgdxfnomze&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nhffo4vkrw7xee2pftqled2b6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&cache_seconds=120)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nhffo4vkrw7xee2pftqled2b6e&redirect=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
