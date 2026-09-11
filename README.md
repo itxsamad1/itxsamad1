@@ -1,28 +1,24 @@
 <div align="center">
-  
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm Abdul Samad
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer;AI+Researcher;Hacking+%E2%86%92+Cloud+%E2%86%92+Software+%E2%86%92+AI;Aggressively+Building+Solutions+%F0%9F%94%A5;Currently+Learning+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+DevSecOps+Engineer;AI+Engineer+%26+Researcher;Building+Scalable+Systems+%F0%9F%9A%80;Exploring+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=itxsamad1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
-
-<!-- Header Image -->
-<img src="https://raw.githubusercontent.com/itxsamad1/itxsamad1/main/header_.png" alt="Header" width="100%"/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
+<!-- Header Banner -->
+<img src="https://raw.githubusercontent.com/itxsamad1/itxsamad1/main/header_.png" alt="Abdul Samad Header" width="100%"/>
 
 </div>
 
-##  **Tech Stack & Tools**
+
+## 🛠️ Tech Stack & Tools
 
 <table>
+
 <tr>
   <td><b>Property</b></td>
   <td><b>Data</b></td>
 </tr>
+
 <tr>
   <td><b>Backend Powerhouse</b></td>
   <td>
@@ -38,6 +34,7 @@
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>Mobile & Frontend</b></td>
   <td>
@@ -55,6 +52,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>AI & Machine Learning</b></td>
   <td>
@@ -69,6 +67,7 @@
     <img src="https://img.shields.io/badge/-MLOps-0078D4?style=flat&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>AI Orchestration & Automation</b></td>
   <td>
@@ -82,8 +81,9 @@
     <img src="https://img.shields.io/badge/-Multi--Model_Routing-8B5CF6?style=flat&logoColor=white" />
   </td>
 </tr>
+
 <tr>
-  <td><b>Hacking & Security</b></td>
+  <td><b>Security</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
@@ -91,13 +91,13 @@
     <img src="https://img.shields.io/badge/-Parrot_OS-00C7B7?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BeEF-8B0000?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B6B?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ethical_Hacking-4ECDC4?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Secure_SDLC-4ECDC4?style=flat&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>DevOps & Cloud</b></td>
   <td>
@@ -115,18 +115,18 @@
     <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>Databases</b></td>
   <td>
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/-RedisInsight-DC382D?style=flat&logo=redis&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>Development Tools</b></td>
   <td>
@@ -138,6 +138,7 @@
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   </td>
 </tr>
+
 <tr>
   <td><b>Specializations</b></td>
   <td>
@@ -145,95 +146,37 @@
     <img src="https://img.shields.io/badge/-System_Design-9B59B6?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Backend_Engineering-FF6600?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-AI_Engineering-FF6F00?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Medical_AI-4C8CBF?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Reverse_Engineering-E74C3C?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Computer_Science-FAB040?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DevSecOps-2496ED?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Computer_Vision-4C8CBF?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Research-01D277?style=flat&logoColor=white" />
   </td>
 </tr>
+
 </table>
 
----
 
-## GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats — using github-stats.pretto.app (reliable self-hosted alternative) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxsamad1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxsamad1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="Top Languages"/>
-
-</div>
+## 🎵 What I'm Listening To
 
 <div align="center">
-
-<!-- Streak Stats — demolab is the official maintained host -->
-<img src="https://streak-stats.demolab.com/?user=itxsamad1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&hide_total_contributions=false" alt="GitHub Streak"/>
-
-</div>
-
-<!-- Profile Summary Cards — very reliable, different API entirely -->
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itxsamad1&theme=radical)](https://github.com/itxsamad1)
-
-</div>
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-🎬 **Movie Fanatic** • 🎮 **Gaming** • ⌨️ **Keyboard Enthusiast** • 🎵 **Music Lover**
-
-*"Sometimes I'm aggressive in working, but that's what drives innovation!"*
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 🎵 What I'm Listening To
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nhffo4vkrw7xee2pftqled2b6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&cache_seconds=120)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nhffo4vkrw7xee2pftqled2b6e&redirect=true)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 </div>
 
----
 
-##  How to Reach Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itxsammad1)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxsamad1)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxsammad2@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itx_sammad1)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itxsammad1)
-
-
-</div>
-
----
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 🐍 Snake eating my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itxsamad1/snk/main/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation for itxsamad1" src="https://raw.githubusercontent.com/itxsamad1/snk/main/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/itxsamad1/snk/main/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="Abdul Samad GitHub contribution snake"
+    src="https://raw.githubusercontent.com/itxsamad1/snk/main/github-contribution-grid-snake.svg"
+  />
 </picture>
-
-
-⭐ **From [Abdul Samad](https://github.com/itxsamad1)** - *Making the impossible possible, one commit at a time*
 
 </div>
