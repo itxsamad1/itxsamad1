@@ -10,7 +10,7 @@
 </div>
 
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <table>
 
@@ -155,7 +155,7 @@
 </table>
 
 
-## 🎵 What I'm Listening To
+##  What I'm Listening To
 
 <div align="center">
 
@@ -164,7 +164,7 @@
 </div>
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
