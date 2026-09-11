@@ -155,7 +155,6 @@
 </table>
 
 
-##  What I'm Listening To
 
 <div align="center">
 
@@ -164,7 +163,6 @@
 </div>
 
 
-##  Contribution Snake
 
 <div align="center">
 
