@@ -1,8 +1,9 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I'm Abdul Samad
+<!-- Code-style header -->
+[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=750&height=50&repeat=false&lines=const+developer+%3D+%22Abdul+Samad%22%3B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%26+DevSecOps+Engineer;AI+Engineer+%26+Researcher;Building+Scalable+Systems+%F0%9F%9A%80;Exploring+Agentic+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=750&height=35&lines=%24+whoami;role+%3D+%22Software+Engineer%22;role+%3D+%22Backend+%26+DevSecOps+Engineer%22;role+%3D+%22AI+Engineer+%26+Researcher%22;build%28%22scalable_systems%22%29%3B;explore%28%22agentic_ai%22%29%3B)](https://git.io/typing-svg)
 
 <!-- Header Banner -->
 <img src="https://raw.githubusercontent.com/itxsamad1/itxsamad1/main/header_.png" alt="Abdul Samad Header" width="100%"/>
@@ -32,6 +33,15 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Messaging & Microservices</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RocketMQ-D77310?style=flat&logo=apacherocketmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nacos-2F80ED?style=flat&logoColor=white" />
   </td>
 </tr>
 
@@ -77,6 +87,7 @@
     <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-vLLM-30A2FF?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-RAG-6366F1?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Multi--Model_Routing-8B5CF6?style=flat&logoColor=white" />
   </td>
@@ -99,9 +110,20 @@
 </tr>
 
 <tr>
+  <td><b>Infrastructure & Virtualization</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
   <td><b>DevOps & Cloud</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
@@ -112,7 +134,14 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Monitoring & Observability</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
   </td>
 </tr>
 
@@ -121,9 +150,21 @@
   <td>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><b>Database Administration & Storage</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/-Database_Management_System-336791?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MyCat-8B5CF6?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white" />
   </td>
 </tr>
 
