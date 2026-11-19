@@ -33,12 +33,6 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
-  <td><b>Messaging & Microservices</b></td>
-  <td>
     <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
     <img src="https://img.shields.io/badge/-RocketMQ-D77310?style=flat&logo=apacherocketmq&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nacos-2F80ED?style=flat&logoColor=white" />
@@ -110,22 +104,18 @@
 </tr>
 
 <tr>
-  <td><b>Infrastructure & Virtualization</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
   <td><b>DevOps & Cloud</b></td>
   <td>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
@@ -134,14 +124,6 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
-  <td><b>Monitoring & Observability</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
   </td>
 </tr>
 
@@ -155,16 +137,10 @@
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
-  <td><b>Database Administration & Storage</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/-Database_Management_System-336791?style=flat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MyCat-8B5CF6?style=flat&logoColor=white" />
     <img src="https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MyCat-8B5CF6?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Database_Management_System-336791?style=flat&logoColor=white" />
   </td>
 </tr>
 
