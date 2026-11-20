@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -45,15 +46,15 @@
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/-XML-005FAD?style=flat&logo=xml&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAADzUlEQVR42q2WzWtkRRTFf7de9RjMTEbHpGckC8FhFsGPjaIigrEVERRcuZo%2FwKULF67mT3AhguhW3bmdlcSIzkJIhGFEJCAO6AiSbzvdnTB2vzouXr336nV3zAzx9aK%2Fbp0699Y5ty7yoGuShjrNM5R0DeQdANv8H882gEPAFmCnAnMRhZqhOxWgRRR5BOyghKHuE6h4FzsFIMABA85WoPefvDD6HAAUDHt0K8BA9545GudxEfCAXs2wzwGL8Y8jXuIOjnDiMQQeZZ25uH2XPoA3ySxoN8LBg2C9e8z0ErNV1fcsyEw%2BFnQ7phBwXNKvZOT%2FgZQjMnIWyKrKF9KTj%2BS34j4CZmzI8ER2MmkeCGSokl7w8f%2BtRKDv640Tavih%2FY4jp538FhF8apsomQ6dE%2Bh9FiPbiWoTwHHz5VWQJgQkjB6bcVU7oRGLVjLcTACzE%2FiNOIyAC2OACcO9qQ455M8xKwYcGxwBITK02GJ2mwy7DJhtODrg2LBnjjVJAOaj6IzDwnhE40CXaWKeVws0xdsy0AwPVbLu0S0%2BOTBB6cSxPnKWR%2BTxar7KRjfHXFWoHgcFki%2F2s6Bdrkyc6Sxmo2PagiJgQWO3MF5Zw9p8Zf1CPLIv1cWSjXIyPrEVMgLn8OPGqwFjv638UqY1TeJfxRULUZel8ax2iiVeCThWuElGzkWujpVBGHfi59QnY4CltEvA6%2FYRgBa4mqRV8tmdAliujoDj5rsiT4shnj6zQIYBIgfu8vfxxkvvuhLQgAs2YmgjunTxeIxAwPB49iuBtSeNl6a8l8C3o7WOeJNllnmBReAv1lhlhYGKg7hYGa9YXVdbDnRZR5KCckk3lSmrHaJz6uh1na99okyZ1iSNFCQd6vECJa3hPn1mSg9YDqAMBwTrsZp8F7nloNonA%2FabDA3kdVtSrqCggT7Q0%2FFGRE4ttXRGrdJ0Mi3pPfUUYka35ad4XuuSRslE9Ys%2B1TtabN5zelsf61YSN5K0VkdULCyw07jXMpZY4l26%2BpFv%2BTpeDc9yIYkon52IkOzsQV80psSgXMMG4%2BLJNVSu0JgMP69GhkQ2sDnWviweQUB4YIThEp%2FXdtycSDkq0cgbraEAzqbE1l0px1dmTIIEbDCIo0XJxo6dtgrWDoenz0YtmsYSPcaLvMbLXE4YOCxpDiIkGfzG93zDDftjcmBMYR%2FgKV7hVZ7j4epEi%2BZQJr%2FPOit8xy27e9wEWlrQwOKYpAWep8MyT3AmBvzDz9xglR8sdk9lgFLBTL%2FRHEYowuR4kg5v4bjOKj9VvzpEsInR9F%2F4hVU6T%2FCEdgAAAABJRU5ErkJggg%3D%3D" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   </td>
 </tr>
 
@@ -65,7 +66,6 @@
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat" />
   </td>
 </tr>
 
@@ -76,11 +76,10 @@
     <img src="https://img.shields.io/badge/-Flowise-3B82F6?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAABtklEQVR42sWWQU4bQRBFXw3dg0RkGxnBGdig7LkD29whl8uCZVbss4zEHYgCwmMixTPj%2BVl4MDF4uktoJGrbra%2F6VfV%2FFWRDBprpUVKnoegkLTSFgjEjKoQR4QKXVK4MZU4mJaUnw4JTTlyQJYfj1tAwT4Ydd6zoHHCR6MrQ5IDb1ucDKPetRijxCqKm9gNGDEvkBvCdRXgWV7qEwAMtGoQUxpKVNeZmPMWyRVmaDGRM8p%2Bt8vYFTbhlkqFTcUGFJdrS1yYocsico6zwMakvZ%2FrjFZN%2BKFIZNn7LKSn7gUgNhfmVIjSmWMaVHlDQ%2BOvzIZQDK8oxIQM1tctJ3IA3zLCsk0Q3oLWqeaDZDnaEV23aSA9ZTiimjZb%2FN4eSL8A3VnQ7NN3mEMDE9rMK7oHf1rzLvp56a90x2Ai0O9kZYspPplmDPbc%2F4cWS%2B6j3%2FJVgzqfsmj9W4d8pTdKRNtyuacPQAfemoTlHgoJj1sVeuDPOXi0ujeo2OsBXmv2L3qRfz5RlHBD5zNwFGdnfFHuvWQiF7JnUas0PZrQumfhuG1urdeX3NDA2g7dLCsz4y1cWY%2B4UsaT6BwJDu1YfgihVAAAAAElFTkSuQmCC" />
     <img src="https://img.shields.io/badge/-OpenRouter-FF6B35?style=flat&logo=openrouter&logoColor=white" />
     <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" />
     <img src="https://img.shields.io/badge/-vLLM-30A2FF?style=flat&logo=vllm&logoColor=white" />
-    <img src="https://img.shields.io/badge/-RAG-6366F1?style=flat" />
-    <img src="https://img.shields.io/badge/-Multi--Model_Routing-8B5CF6?style=flat" />
   </td>
 </tr>
 
@@ -95,8 +94,6 @@
     <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B6B?style=flat" />
-    <img src="https://img.shields.io/badge/-Secure_SDLC-4ECDC4?style=flat" />
   </td>
 </tr>
 
@@ -148,8 +145,6 @@
   <td>
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAACCklEQVR42sWXPWgUURDH%2F7t7ZyGiFhY20UYtBLGIKKhgkSYpLK0UxEK0ETsrGxt7wcrDSkg6EVJY2CgYkyadEFL6UYjIHQERYT9%2BFu%2Ft5vb27e3t8g6n2Ftu3%2Fvdf3bmzcxJrY2%2BxBW2%2BMqAs5JERKiuRk9ihRHG9hhwXpIIibribpECCRkJADGrXLLQoA0sIJJ4AGSkVmFGbD9fc62dtoBQ4gmQkjFuuVJ4w8lZcSGBxHPrqssSUmBjRpxEn1WwDtZZAvmWqD5GRBKHeduIA8jM2wlyHTW442zOhAMshpU88I40Oc2OA5e536Uk%2BrwC4CmBUVTCLfLdgUvGrhMKj7IOxKTAOxYMpsAtMXRsjIGf3OEHTOoUH4rfj4FvLEuEhPQkbvC3gjNZ94lTEiMXEOLiS7P1sVV4D6A4E%2BMrnnFA4hhDF7Cc%2B%2BZunQUeAekELgb2uGnODUecQImHpdNpVAwrcTSubnMuL1c1QHoSt0lKziWVhcbVAQdtsIJaoF1wnd8lZBX3h7v7mToVaGvwVX5VHxdh%2BcyiRJTXuwagVXmGXUf%2Bp2S85NB%2Bfk4Hdu8FjW3Hn8uegzKPtPGc2L6P3pTicL9bcXjvu3w1FdhRywLb2AIutG0BJq%2BWueivSflto3No9DOPImstRhFvw9JH3%2BPcif83cE4didc6jcRzGdoL5GU2%2BcKL6t%2BKf8EAU%2FaW4B0lAAAAAElFTkSuQmCC" />
     <img src="https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kiro-9046FF?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAADV0lEQVR42p2XzYscVRTFf%2FdV58uJxgRjdMIo5AMdEhQhStCFCJrgQkWQ7JQE9E8QcZGFIoIRXLgTxU3UrIMbUQQjcSNKoigKgRFFjIoOGRRn0t31fi66eqa6p3q6MwcK6kG98869797bp4ORsIgS3MPjPMIst7KZNn9yic%2F4MC6ABTlkMhgGOOu7zrsai571QQDTtdA973%2Bqlpbmiipb2q3e3%2FYGsJiELtnytKqdZapBdC3Vi%2B4dq9KwAD9Q2yPI%2Bmirc94%2BhtICPFl9Pg4d9Wu3mIy16O6xa3eMurrKN9bIpAn8SJcTPw7Zrl3v7iWqWd8hs6WTo6ueWdE4mM4AnibIDadlJOPyimqVkCe8Lcre1QwQRteCI6uO6R8dJIIVIb1VULKFx%2Fq70mD%2BmGVfpXRQHXzLAxzlZ6ALnOUQx%2FkHEZCHgeE2tAU%2B23ghpXoEwGNq6b9OA3hK7Viqc24EY3VwdzWdRGKR7y0s%2BIpFEj9x2Q0WnAOCAKaZ6UWWhgLb2xAwQIdOlFHSoQ0shUjmakWY2dREKDA9gvA6tlmYuJGtwE5bRMiuSobA7qGyMUKn2N5AFpS0eCrKyJygoMsMR6MDnKiOF7i5994a2LqNHY0KE%2FCS%2B5niGJJIvOcZ7uQhpFje29B0B7025NqQeLVXJ2mgS2aqnDS2OV3KoVVDtlsDhPuATPN0i4H0xFCyYGm4lwUOsn4sDBNmCw6P6ONxCOCPnqi0Mrg4wAFcF2ECfh1UGCHPUNTSPjkkWOSXWtOaDHc5b55w8K8eHT9Y1IdDhLzAdjKxDoUZuBilRfRyaETpbp5bZ%2F56ONfvsFQ9h9m6Tn3Qos2n%2FZZo1Qq8JBBXlezaKEl8GZeMyH2FGpxngY0kClprtN%2BoKnwf%2BkMiercc2ft5kT38xTmWeLn2czSuZGCeO%2BJvY8Da1a2Eb1bzwwnNyGuNzsFkMgw3O1fV1iTjq3TB6Z79G%2BrlyJGJkJ392TsBuiReid9II5ysCdzvUm101i1HbjBKn1isYTkN8Hp%2FrznWQbJcC7atfuNN9XBH2aW31Lal2WxeJjvlx9Ul5MoKnPeWSfxruMMvhoL73EfBe726rHLR1900kWk3wClPesErXvE736lMyAbwSX%2B09LKnvW%2FUf4D%2FAVy5%2BwMkpZOWAAAAAElFTkSuQmCC" />
-    <img src="https://img.shields.io/badge/-Windsurf-0B100F?style=flat&logo=windsurf&logoColor=white" />
     <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white" />
@@ -158,6 +153,7 @@
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hoppscotch-09BC8A?style=flat&logo=hoppscotch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker_Desktop-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kiri-0F1419?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAAHSElEQVR42u2YW4id1RXHf2vvfW5zcmaSSSaxidE0SZNoSIhNtVAUk15oWtQWdQQf9KVQpIrFp9aXTkZIC6Vgi%2FhQKK1thcJEiiBNoQVz6gUUEhqJCZpITLzGmUkyM%2Bf23fZeffjOmIlmdGKOL8UNH3x8l73%2Fe631%2F6%2B1Nnwx%2Fs%2BHfF4TqyLsHrm0%2BXePqgj6ue5YdcSoDtvP%2Fv%2BwVT1vONdTcGPDVmTUA7x7YHtfJb56qDxQ1Sj2n2jJcskqcUumJ9%2BYFNnbmvWACCo9cyeKiOj4i7ddt6hWvk%2BD%2BXYW5CoRw1yLXDTOBEWCOss73md7xydO%2FHLddw5O68iIkd7EGiKjhOmDdz5SLJV%2BXq4UC3HkSdMACw4pwTlDeVGBzkzrUKMz873lN%2Bz7wF6%2B5YaN7DyqUwfvfGJgWf%2BDnZY3cZR5HwKqObyFXj4Ejdo%2BXbSkb1UW6bbyyqNPyuUSQmQ0nHn5jtHBKxb%2FonE2SlS1ICKX65msWrGuMdO4Wy5cUA1gLv5PHdjhRUQvAPf8dzdXBgYPhWDFB296AA5V%2FKI%2BZxrNaJ%2BbA05EJABhQbPU6wYIrrrswUqt6hrTcWatE%2B0N60zqrRjrtrg54DSambwW524LWSYhZGKMAVRdsSSaZe8Xq0v%2FIiK%2B%2B322fwTXaZy6ibSgUeQNIr0SeXxRiJPQcaq51ExOvn0lhmdLlYEVkH4kyQQoFWlNj28FHqJet0C2%2BhtrB9tTJ1clViXzgnyK%2FYLmi3elhVkNUSDM8Zs1BFMxttPODjnAiIhvnhsfKlUXrYiak4QQdG4sqWrW1z%2FoRGQnADvqucqn2XpXKvRnGWrs%2FFonkgMoFaFSzIF6D50kN4MRGFgEvguyHYEYwbjiK67rMgO80p754NfFcvlHWZJI%2FkxQFOds8Fl0TjMeBuBITiQV2VgtC9ON4JH5s1IIUCzAxDnld0953p1QHrjDcv01hjjJv3l0zPP8Ic%2FtN1uGv2lNnIKih12%2BQ5k18M8mJ4%2FtWWqHzBRTACxePKCwRI4f%2F2dnw4bvxwD1idGQS6tsWUhMGQNxAvc%2FmvLiodzH4%2BeUv%2B8pUuuD3X%2FMeHzMY0vKgddVv7rRyLpVtNuxHHPn5WWvwLCIyMz8watGRMKOepfpqtf6ACrz08MHGKjCMy96XjqiDC2FJIMzM0oW4K1x5am6p38AKiXhbAOdaiLFAu%2F%2Fe7895ebIy6cwKwfXTeLh2L71JXy2Pk31U8s2I3BmJo87IzA9BTuvM6xYIpw6rbQjcA7OzsCVy9FtX7FEUTj208feiF0uLxObSiVXTlLVNE0vWKzaV%2BX02cZxEWnljM9fF9NkpVpZnWafXFcagXYMO7YZrlkjvP5W4IYthofvcTQ7yobVwre%2BZnj6ucCVy2HPjwu6YlB46zSvAbh2Y%2FxxWyjc5xVjHVhXmmO1ABYWV91hbbV2Ae%2FDiIXRLBizoa8oxU6sQWS%2B7JMzOM1g5ZDwt90FTrynbF1n6CtDFOfk%2Bc39Be7dFVhzhbBySKTRVqzRVwFMpVz5SZamEsdxGsdJFsfxh1eSpFmr2YzKtWVborR5u4goJ3O2WthULgqygMwjkpNk2YBw01ZDwUGUgDU5%2BIKDG7cali8Rmh1Mkioi2rVgp%2FPXvlr%2FPUDhIpEHWJd0zp7Jgj4HcKR1NHStuzWoWXhv0bVkkp4XaZ3VSIVmO1%2BwXECiJDTE8iaAq%2FYvv7fTmPiTK9haEnuFudWv1b6%2BooQ4OVwb%2FNKb3RhM8wXNJh9yrbkUkBejuwBiQEGdFUkz3r5616nTH5b8ldrQ%2FgWwWEAQQSf3re9v%2BmxtkiqqGOld66WFghDF%2BpoIOjaGdd1y3VCvSx0YGhoymzdHCttDd3MGyLoSYwCd8uEqZ1iRZopI7zpDUTR3vR4FGB66WVze5olfWIWFAYIRvaZaNtLsBC9ge2Y%2BQXKtlMMATPznfJR38zGtqYnr03j6%2Bbh97kiWNg60zp7%2Bwez7Hdzc3WlYVSzkD3vZFBrBtKKQGjX%2F7eb8j9NQjD7mirUbfZZea53djpUnVLVfRMLB2kbJg10b3udJvIeNfqhWjGjghdW3njg%2BMoKRUcIcgHulKyzHQKhUq0AFESbgvUxVZfv2cwEgU%2FdysxOC9OhkQhU1BvVeUfQRgN2b87nnlEjDAaCTTD1QjAonsGZlSKY7Bvt7kRXtvAfZ63UEI7eeePXkM2v%2B1V8zu6YaITVyMQ1duOUEwmC%2FdR%2Bc8b9a%2F8NT9a4y%2BM90NqNd07%2Fzjy9vwOhLpaIsabZDioi5tIm6pwpFsaWiMNMKv11zy8mHdAzLXYSujn8cYLcFmMvM8NFqZxbk60%2Bv%2BXqtIn%2FuK8tG77uZYaGSYkADREk4HmXyyLpb3nxyZAQzOnph6pTLcI0RIbzwh421tSvju72yM4NlRiHMc9RhBA2aZz3rOGFFns1m0n1X3fVOZ3a%2BXh%2BxmZ7MMza%2FlvbkbKZex%2B6YQPdewn%2FD52%2FC534m%2BMX4YlzG%2BB%2BCT7rkLSierwAAAABJRU5ErkJggg%3D%3D" />
     <img src="https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
     <img src="https://img.shields.io/badge/-GNS3-1BA0D7?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAAE1UlEQVR42p2WW4hVVRjHf2ufM%2BNkWdJlpKm8FWlIV4hugoFhWYhZgQ8VYYUR3XwIo%2FsdfamHHoJMIooeKjFLoyjtMmCSlZlGWnZhuhnazOjoNM3M3vvXw95nzz5nxhTXeTlnn7V%2B%2B1v%2F%2F7e%2B9cFBhgFs8Rv1Zz%2FxeefYAmCFwxtG4ER7HBpbXORRh420Al6sJqYmxjn0O2eDFaPDABq5QB00Nq7DLs52cMhQg5EVm8GlRWSamKixqbrUCTVZDg4rFPIif1X3%2BpXt%2FqpqqqYm6h7fdMJBkTWY5%2FmQ69yvLvN0AI%2FzJnfmSPO493nR%2FyCNDGCrj%2Fh1sc2H62ZMcXceX2zqCuf6vmMMhgMlSeTCfGs6YOxGgxNd4UpPM9gC3q4meZy7wOXePGIaWQHbXKvqoImpg%2BqD4Nuqvpu7fqL%2FFErqA37jErAKEJVxIXEqHzGTmJQqEYEAfG8ge3sEGFI66QAEAvA0Z%2FFL%2Fpvq0GZD4lTWchLx0FMETgDuJaHCfUAwMJrjcxiI9NNeA5Zzboyb1EHLI1ZX1MlSBWcWPmczlgxT0AhcNgyXZduAV4BVm222Clb93NTY1NTExF4nN6RNfl7TPP%2FLuOzzp%2FOKuRNdVWRgNvZ7yhCwCgY08Bih0KWmX02lE1nph2ykh2lczjigAgzSRy%2B9bGbv8PjON2mITvVf%2F1ZTB%2Bqk2OLVXuw02zxyeCbX%2FLyeqMFd6eZSHmI%2B0ATIABFQpZW57GMPXXTZRSd76COlN3TW%2FA2OclOe%2B2V3F3qBsal%2FuNA19uW1Jnb46HezS3KfjcA2e0uJkKE7PNZvVb0ZwGk%2B4fcNoD9c7wve4nRPLlQ0Aqc2TIzVO7xV1TcMHmFzPnuGr7vDDS53oZd48kgahvwsWHI4ANuZCaR8HaQPjLiKSXwQ5nt06GlMdZJg2ePrGhRM1PWO82VVN3qn83wv%2F282WDUCL%2FQeFzmjdjeWj9INDcBMz63Ocq6r7MyfPeBdfuZ0I6se4WvF3DWOKyGtgDPqLMmAWebdCo61zTbbXZTProCPqvc71uO9W%2F3QpnpTJo%2BYDJrYUxPeyZ5pxWAENrvHV23xXdc5zmfV6bXDl3G72Q2k%2BTtS4GPmsoqIMVxqBIbwc9gakiACoziGrRzFBvp5ibeQC2qsKKRGoZsvsA64JrzDNbwCTAippxIyIyBoFPbxEffSGp7iLyoEAsc0VrgbS7bE6t1WjWxxly%2B41PXlw28EnuF2E%2Fvc7zk%2BmmtdLbdDrXaZ5sYMqsvBUeBtDrjbVlu8sv6itNk53uUUK2439cy6imgFfLyocqmpO2012GTVTeoKP1PPLd3YxWKfVD%2B1qe4SNRg80h%2BKbcfq22Cw6lluU7XDSZnH%2BYqqAbzTfnXe8CugAs4q1exEfdGj827hWm9yfP7iyEq22LE%2Bo2q7TVl7MBy5WB0sIXe4IIPW9lF8b%2FN2f1RTu5w6YiOStUc%2Bp8aljesOl3i54zMPHe0UZ7nMnXlG9DnzgH1NjnyiBBsqp7vc5ha%2F9Cf3FdeDdnjZ%2F3ay%2BcGa75%2BlZiQpIrbodwZUXe1Jh9AYWwEn%2BGK%2BKIsydtAB%2B%2B0v0Ju87ZBb99zDaT7lthGKRo%2BrvTqr4CM1cOEAnX8ICTiaCzmb8bTRRKCb3%2FmWDeG3%2FMAOVenS%2BA%2BPfbnSeIcSYAAAAABJRU5ErkJggg%3D%3D" />
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
@@ -172,6 +168,9 @@
     <img src="https://img.shields.io/badge/-System_Design-9B59B6?style=flat" />
     <img src="https://img.shields.io/badge/-Backend_Engineering-FF6600?style=flat" />
     <img src="https://img.shields.io/badge/-DevSecOps-2496ED?style=flat" />
+    <img src="https://img.shields.io/badge/-Secure_SDLC-4ECDC4?style=flat" />
+    <img src="https://img.shields.io/badge/-Penetration_Testing-FF6B6B?style=flat" />
+    <img src="https://img.shields.io/badge/-Reverse_Engineering-FF4757?style=flat" />
     <img src="https://img.shields.io/badge/-Database_Management_System-336791?style=flat" />
     <img src="https://img.shields.io/badge/-Database_Scaling-4479A1?style=flat" />
     <img src="https://img.shields.io/badge/-AI_Engineering-FF6F00?style=flat" />
@@ -179,7 +178,8 @@
     <img src="https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat" />
     <img src="https://img.shields.io/badge/-MLOps-0078D4?style=flat" />
     <img src="https://img.shields.io/badge/-Computer_Vision-4C8CBF?style=flat" />
-    <img src="https://img.shields.io/badge/-Reverse_Engineering-FF4757?style=flat" />
+    <img src="https://img.shields.io/badge/-RAG-6366F1?style=flat" />
+    <img src="https://img.shields.io/badge/-Multi--Model_Routing-8B5CF6?style=flat" />
     <img src="https://img.shields.io/badge/-Research-01D277?style=flat" />
   </td>
 </tr>
